@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\User\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.AdminForm.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.AdminFormMeals.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.AdminFormTable.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.CashierForm.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.BillForm.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.TableForm.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.TableInputForm.resources
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\User\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\User\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.LoginForm.resources
